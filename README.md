@@ -1,1 +1,5 @@
-print("i am back")
+#include<stdio.h>
+int main()
+{
+printf("i am back");
+}
