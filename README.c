@@ -1,3 +1,5 @@
+
+//shutyourmouth
 #include<stdio.h>
 int main()
 {
